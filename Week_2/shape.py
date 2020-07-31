@@ -1,0 +1,32 @@
+# Displaying a shape 
+# Name: Yusuf Hendricks 
+# Date: 15th May 2020
+print("Triangle")
+print("    /|")
+print("   / |")
+print("  /  |")
+print(" /   |")
+print("/    |")
+print("\    |")
+print(" \   |")
+print("  \  |")
+print("   \ |")
+print("    \|")
+
+print("Square")
+print(" ___________ ")
+print("|           |")
+print("|           |")
+print("|           |")
+print("|           |")
+print("|           |")
+print("|___________|")
+
+print("Rectangle")
+print(" _______________ ")
+print("|               |")
+print("|               |")
+print("|               |")
+print("|               |")
+print("|               |")
+print("|_______________|")
